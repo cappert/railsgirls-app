@@ -18,6 +18,7 @@ gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
 
 gem 'devise'
+gem 'gravtastic'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
